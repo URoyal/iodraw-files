@@ -46,6 +46,9 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-54" value="数据处理" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-1">
           <mxGeometry x="161" y="68" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.03;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.18;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Q8_a8cf2tmqGeFLNcg3x-1" source="Q8_a8cf2tmqGeFLNcg3x-53" target="Q8_a8cf2tmqGeFLNcg3x-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-39" value="借书卡" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.access_card;" vertex="1" parent="1">
           <mxGeometry x="470" y="290" width="55.5" height="75" as="geometry" />
         </mxCell>
