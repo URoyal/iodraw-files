@@ -10,10 +10,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-46" value="MySQL服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry x="40" y="83" width="41" height="50" as="geometry" />
+          <mxGeometry x="30" y="83" width="41" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-47" value="MQTT Client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="170" y="70" width="78" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-77" value="数据处理" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="100" y="83" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-1" value="客户端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="80" width="266" height="360" as="geometry" />
@@ -96,9 +99,6 @@
               <mxPoint x="571" y="394" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-77" value="数据处理" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="130" y="400" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
