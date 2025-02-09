@@ -45,9 +45,6 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-49" target="Q8_a8cf2tmqGeFLNcg3x-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.067;entryY=0.786;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-47" target="Q8_a8cf2tmqGeFLNcg3x-45">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
