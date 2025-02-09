@@ -24,7 +24,7 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-52" value="本地数据库" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-1">
           <mxGeometry x="176" y="290" width="50" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.97;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Q8_a8cf2tmqGeFLNcg3x-1" source="Q8_a8cf2tmqGeFLNcg3x-53">
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.97;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="Q8_a8cf2tmqGeFLNcg3x-1" source="Q8_a8cf2tmqGeFLNcg3x-53" target="Q8_a8cf2tmqGeFLNcg3x-54">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="86" y="257.25" as="sourcePoint" />
             <mxPoint x="201.00000000000023" y="102.25" as="targetPoint" />
@@ -32,6 +32,7 @@
               <mxPoint x="85" y="210" />
               <mxPoint x="202" y="210" />
               <mxPoint x="202" y="102" />
+              <mxPoint x="201" y="102" />
             </Array>
           </mxGeometry>
         </mxCell>
