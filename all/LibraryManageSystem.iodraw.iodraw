@@ -15,17 +15,17 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-47" value="MQTT Client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="170" y="70" width="78" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Q8_a8cf2tmqGeFLNcg3x-45">
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="390.2757287525381" y="69.99572875253799" as="sourcePoint" />
-            <mxPoint x="248.00476163925288" y="96.24000000000001" as="targetPoint" />
+            <mxPoint x="397.7157287525381" y="55.47572875253799" as="sourcePoint" />
+            <mxPoint x="260.0047616392529" y="70.00000000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="391" y="82" />
-              <mxPoint x="391" y="80" />
-              <mxPoint x="375" y="80" />
-              <mxPoint x="375" y="88" />
-              <mxPoint x="281" y="88" />
-              <mxPoint x="281" y="96" />
+              <mxPoint x="403" y="55.760000000000005" />
+              <mxPoint x="403" y="53.760000000000005" />
+              <mxPoint x="387" y="53.760000000000005" />
+              <mxPoint x="387" y="61.760000000000005" />
+              <mxPoint x="293" y="61.760000000000005" />
+              <mxPoint x="293" y="69.76" />
             </Array>
           </mxGeometry>
         </mxCell>
