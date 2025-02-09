@@ -36,13 +36,16 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-40" value="书籍绑定卡" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.sd_card;" vertex="1" parent="1">
           <mxGeometry x="390" y="380" width="49" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-45" target="Q8_a8cf2tmqGeFLNcg3x-47">
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-45">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414.00291235999885" y="172.07145617999944" as="sourcePoint" />
+            <mxPoint x="283.4447616392529" y="187.96" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="414" y="172" />
-              <mxPoint x="414" y="180" />
-              <mxPoint x="320" y="180" />
-              <mxPoint x="320" y="188" />
+              <mxPoint x="426" y="172" />
+              <mxPoint x="410" y="172" />
+              <mxPoint x="410" y="180" />
+              <mxPoint x="316" y="180" />
+              <mxPoint x="316" y="188" />
             </Array>
           </mxGeometry>
         </mxCell>
