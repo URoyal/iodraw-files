@@ -67,6 +67,9 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-44" value="MQTT Broker" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="1">
           <mxGeometry x="440" y="270" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-45" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/service_broker.svg;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
