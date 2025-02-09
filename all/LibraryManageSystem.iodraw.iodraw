@@ -51,7 +51,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-47" target="Q8_a8cf2tmqGeFLNcg3x-45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="218" />
+              <mxPoint x="310" y="218" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
