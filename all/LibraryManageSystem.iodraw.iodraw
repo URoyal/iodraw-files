@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="服务器" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="370" height="200" as="geometry">
+          <mxGeometry x="40" y="80" width="290" height="200" as="geometry">
             <mxRectangle x="40" y="80" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -17,14 +17,14 @@
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110.00000000000011" y="99" as="sourcePoint" />
-            <mxPoint x="149.9999999999999" y="99" as="targetPoint" />
+            <mxPoint x="110.00000000000011" y="92" as="sourcePoint" />
+            <mxPoint x="149.9999999999999" y="92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="149.9999999999999" y="119" as="sourcePoint" />
-            <mxPoint x="110.00000000000011" y="119" as="targetPoint" />
+            <mxPoint x="149.9999999999999" y="112" as="sourcePoint" />
+            <mxPoint x="110.00000000000011" y="112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-6" value="" style="swimlane;startSize=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
