@@ -24,6 +24,9 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-52" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-1">
           <mxGeometry x="176" y="290" width="50" height="37" as="geometry" />
         </mxCell>
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-53" value="读卡器" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-1">
+          <mxGeometry x="36" y="270" width="50" height="26" as="geometry" />
+        </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-39" value="借书卡" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.access_card;" vertex="1" parent="1">
           <mxGeometry x="300" y="320" width="55.5" height="75" as="geometry" />
         </mxCell>
@@ -33,8 +36,8 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-45" value="MQTT Broker" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/service_broker.svg;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-53" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" vertex="1" parent="1">
-          <mxGeometry x="414" y="310" width="50" height="26" as="geometry" />
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-54" value="" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
