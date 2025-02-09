@@ -86,10 +86,20 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-39" target="Q8_a8cf2tmqGeFLNcg3x-53">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="328" />
+              <mxPoint x="560" y="382" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.072;entryY=0.38;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-40" target="Q8_a8cf2tmqGeFLNcg3x-53">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="550" y="450" />
+              <mxPoint x="550" y="391" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
