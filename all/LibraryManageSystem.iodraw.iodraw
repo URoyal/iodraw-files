@@ -35,7 +35,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-53" value="读卡器" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.device" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-1">
-          <mxGeometry x="36" y="290" width="50" height="26" as="geometry" />
+          <mxGeometry x="40" y="292.08" width="46" height="23.92" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q8_a8cf2tmqGeFLNcg3x-1" source="Q8_a8cf2tmqGeFLNcg3x-54" target="Q8_a8cf2tmqGeFLNcg3x-52">
           <mxGeometry relative="1" as="geometry" />
@@ -90,7 +90,8 @@
             <Array as="points">
               <mxPoint x="590" y="328" />
               <mxPoint x="590" y="350" />
-              <mxPoint x="618" y="350" />
+              <mxPoint x="600" y="350" />
+              <mxPoint x="600" y="384" />
             </Array>
           </mxGeometry>
         </mxCell>
