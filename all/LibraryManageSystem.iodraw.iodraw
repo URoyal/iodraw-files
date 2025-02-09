@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry">
+        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Server" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80" width="320" height="290" as="geometry">
             <mxRectangle x="40" y="80" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
