@@ -19,7 +19,7 @@
           <mxGeometry x="554" y="80" width="266" height="360" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-49" value="MQTT Client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-1">
-          <mxGeometry x="36" y="62" width="78" height="76" as="geometry" />
+          <mxGeometry x="36" y="70" width="78" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-52" value="本地数据库" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database.svg;" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-1">
           <mxGeometry x="176" y="290" width="50" height="37" as="geometry" />
@@ -48,7 +48,12 @@
           <mxGeometry x="414" y="150" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-49" target="Q8_a8cf2tmqGeFLNcg3x-45">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="190" />
+              <mxPoint x="570" y="190" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-47" target="Q8_a8cf2tmqGeFLNcg3x-45">
           <mxGeometry relative="1" as="geometry">
