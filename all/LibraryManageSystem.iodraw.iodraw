@@ -39,6 +39,14 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-45" target="Q8_a8cf2tmqGeFLNcg3x-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-45" target="Q8_a8cf2tmqGeFLNcg3x-47">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="351" y="218" />
+              <mxPoint x="351" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-45" value="MQTT Broker" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/applications/service_broker.svg;" vertex="1" parent="1">
           <mxGeometry x="414" y="150" width="80" height="80" as="geometry" />
         </mxCell>
