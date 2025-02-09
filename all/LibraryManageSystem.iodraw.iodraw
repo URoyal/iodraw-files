@@ -92,10 +92,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-39" value="" style="verticalLabelPosition=bottom;sketch=0;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.access_card;" vertex="1" parent="1">
-          <mxGeometry x="210" y="353" width="55.5" height="75" as="geometry" />
+          <mxGeometry x="150" y="380" width="55.5" height="75" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-40" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.sd_card;" vertex="1" parent="1">
-          <mxGeometry x="419.5" y="353" width="49" height="60" as="geometry" />
+          <mxGeometry x="384" y="360.5" width="49" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
