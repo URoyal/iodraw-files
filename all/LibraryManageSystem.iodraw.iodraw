@@ -24,9 +24,6 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-7" value="MQTT客户端" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-6">
           <mxGeometry x="5" y="25" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Q8_a8cf2tmqGeFLNcg3x-7" target="Q8_a8cf2tmqGeFLNcg3x-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-1" value="客户端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="80" width="200" height="200" as="geometry" />
         </mxCell>
