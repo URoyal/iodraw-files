@@ -13,7 +13,12 @@
           <mxGeometry x="10" y="50" width="110" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" source="Q8_a8cf2tmqGeFLNcg3x-13" target="Q8_a8cf2tmqGeFLNcg3x-15" parent="dNxyNK7c78bLwvsdeMH5-11">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="90" />
+              <mxPoint x="140" y="110" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-15" value="MQTT客户端" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="160" y="50" width="110" height="120" as="geometry" />
