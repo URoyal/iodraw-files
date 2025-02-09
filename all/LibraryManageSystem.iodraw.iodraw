@@ -12,6 +12,9 @@
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-46" value="MySQL服务器" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="50" y="70" width="41" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-11" source="Q8_a8cf2tmqGeFLNcg3x-47" target="Q8_a8cf2tmqGeFLNcg3x-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-47" value="MQTT Client" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.client;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="170" y="70" width="78" height="76" as="geometry" />
         </mxCell>
@@ -77,12 +80,6 @@
               <mxPoint x="310" y="218" />
               <mxPoint x="310" y="218" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="255" y="360" as="targetPoint" />
-            <mxPoint x="140" y="515" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.18;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-39" target="Q8_a8cf2tmqGeFLNcg3x-53">
