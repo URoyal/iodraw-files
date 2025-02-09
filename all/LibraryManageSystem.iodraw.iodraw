@@ -9,14 +9,17 @@
             <mxRectangle x="40" y="80" width="90" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-3" value="" style="swimlane;startSize=0;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="10" y="40" width="100" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-1" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="80" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-2" value="" style="swimlane;startSize=0;" vertex="1" parent="Q8_a8cf2tmqGeFLNcg3x-1">
           <mxGeometry x="20" y="40" width="100" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="100" height="80" as="geometry" />
+        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-4" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="148" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
