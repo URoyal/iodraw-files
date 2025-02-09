@@ -47,11 +47,6 @@
             <mxPoint x="360" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Q8_a8cf2tmqGeFLNcg3x-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Q8_a8cf2tmqGeFLNcg3x-21">
-          <mxGeometry x="-0.1222" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Q8_a8cf2tmqGeFLNcg3x-20" target="Q8_a8cf2tmqGeFLNcg3x-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="180" as="targetPoint" />
