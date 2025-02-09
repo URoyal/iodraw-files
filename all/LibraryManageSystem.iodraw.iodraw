@@ -98,7 +98,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Q8_a8cf2tmqGeFLNcg3x-77" value="数据处理" style="image;html=1;image=img/lib/clip_art/computers/Software_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="100" y="360" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="400" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
