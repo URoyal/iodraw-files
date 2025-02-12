@@ -39,6 +39,9 @@
         <mxCell id="N9t1iVyjokcgvMtSIY3X-13" value="判断用户情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="780" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="N9t1iVyjokcgvMtSIY3X-16" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="450" y="810" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
