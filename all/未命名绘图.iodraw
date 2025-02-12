@@ -51,8 +51,7 @@
             <Array as="points">
               <mxPoint x="434" y="310" />
               <mxPoint x="570" y="310" />
-              <mxPoint x="570" y="430" />
-              <mxPoint x="434" y="430" />
+              <mxPoint x="570" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -83,14 +82,13 @@
             <Array as="points">
               <mxPoint x="434" y="470" />
               <mxPoint x="570" y="470" />
-              <mxPoint x="570" y="590" />
-              <mxPoint x="434" y="590" />
+              <mxPoint x="570" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-27" value="写卡失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fx-yCBh0lVWFeabnYIsM-26">
           <mxGeometry x="-0.5797" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
