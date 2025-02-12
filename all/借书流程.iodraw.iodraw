@@ -93,10 +93,10 @@
           <mxGeometry x="354" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N9t1iVyjokcgvMtSIY3X-28" value="写入数据库" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="354" y="1100" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="N9t1iVyjokcgvMtSIY3X-30" value="写入用户卡" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="554" y="950" width="120" height="60" as="geometry" />
+          <mxGeometry x="540" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
