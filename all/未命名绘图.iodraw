@@ -13,9 +13,9 @@
         <mxCell id="fx-yCBh0lVWFeabnYIsM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-11" target="fx-yCBh0lVWFeabnYIsM-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-11">
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-11" target="fx-yCBh0lVWFeabnYIsM-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="130" as="targetPoint" />
+            <mxPoint x="560" y="140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-11" value="识别卡号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
