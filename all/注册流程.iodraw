@@ -60,10 +60,10 @@
             <mxPoint x="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBmIbOeMBwZKJxKtYzmj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="cBmIbOeMBwZKJxKtYzmj-1">
+        <mxCell id="cBmIbOeMBwZKJxKtYzmj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="cBmIbOeMBwZKJxKtYzmj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cBmIbOeMBwZKJxKtYzmj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="fx-yCBh0lVWFeabnYIsM-1">
+        <mxCell id="cBmIbOeMBwZKJxKtYzmj-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="fx-yCBh0lVWFeabnYIsM-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="414" y="610" />
@@ -72,7 +72,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBmIbOeMBwZKJxKtYzmj-4" value="写卡成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cBmIbOeMBwZKJxKtYzmj-3">
+        <mxCell id="cBmIbOeMBwZKJxKtYzmj-4" value="写卡成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="cBmIbOeMBwZKJxKtYzmj-3" vertex="1" connectable="0">
           <mxGeometry x="-0.9459" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -94,7 +94,7 @@
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBmIbOeMBwZKJxKtYzmj-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cBmIbOeMBwZKJxKtYzmj-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
