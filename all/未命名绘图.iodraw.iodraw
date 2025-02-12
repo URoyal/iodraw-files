@@ -4,14 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="oyOfp2B5WJiQwXV4DHqo-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oyOfp2B5WJiQwXV4DHqo-1" target="oyOfp2B5WJiQwXV4DHqo-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="oyOfp2B5WJiQwXV4DHqo-1" value="图书绑定流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="10" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="oyOfp2B5WJiQwXV4DHqo-2" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="374" y="140" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
