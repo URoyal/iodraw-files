@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-1" target="fx-yCBh0lVWFeabnYIsM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-1" value="注册流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-11" target="fx-yCBh0lVWFeabnYIsM-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-11" value="识别卡号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-13" value="识别卡号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="330" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
