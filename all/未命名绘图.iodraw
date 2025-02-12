@@ -61,6 +61,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-23" value="写卡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
         </mxCell>
