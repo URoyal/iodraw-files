@@ -65,7 +65,19 @@
           <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="fx-yCBh0lVWFeabnYIsM-23">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="434" y="470" />
+              <mxPoint x="570" y="470" />
+              <mxPoint x="570" y="590" />
+              <mxPoint x="434" y="590" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-27" value="写卡失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fx-yCBh0lVWFeabnYIsM-26">
+          <mxGeometry x="-0.5797" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
