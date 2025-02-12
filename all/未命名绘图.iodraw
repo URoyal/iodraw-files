@@ -21,6 +21,14 @@
         <mxCell id="fx-yCBh0lVWFeabnYIsM-11" value="识别卡号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="170" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-13" target="fx-yCBh0lVWFeabnYIsM-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fx-yCBh0lVWFeabnYIsM-24">
+          <mxGeometry x="-0.11" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-13" value="卡验证" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="374" y="330" width="80" height="80" as="geometry" />
         </mxCell>
@@ -52,6 +60,9 @@
           <mxGeometry x="-0.5627" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-23" value="写卡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
