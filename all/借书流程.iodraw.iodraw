@@ -72,13 +72,19 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N9t1iVyjokcgvMtSIY3X-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N9t1iVyjokcgvMtSIY3X-19">
+        <mxCell id="N9t1iVyjokcgvMtSIY3X-25" value="不正常" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N9t1iVyjokcgvMtSIY3X-19">
           <mxGeometry x="0.144" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N9t1iVyjokcgvMtSIY3X-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N9t1iVyjokcgvMtSIY3X-13" target="N9t1iVyjokcgvMtSIY3X-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="N9t1iVyjokcgvMtSIY3X-13" value="判断用户情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="N9t1iVyjokcgvMtSIY3X-26" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="950" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
