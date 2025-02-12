@@ -55,11 +55,14 @@
         <mxCell id="oyOfp2B5WJiQwXV4DHqo-9" value="是否为有效卡" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="270" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="oyOfp2B5WJiQwXV4DHqo-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oyOfp2B5WJiQwXV4DHqo-18" target="oyOfp2B5WJiQwXV4DHqo-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oyOfp2B5WJiQwXV4DHqo-18" value="将图书信息与卡号绑定，写入数据库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oyOfp2B5WJiQwXV4DHqo-19" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
