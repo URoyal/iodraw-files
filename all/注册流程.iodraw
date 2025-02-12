@@ -60,19 +60,8 @@
             <mxPoint x="20" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="fx-yCBh0lVWFeabnYIsM-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="220" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="270" y="530" />
-              <mxPoint x="270" y="210" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-29" value="写卡成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fx-yCBh0lVWFeabnYIsM-28" vertex="1" connectable="0">
-          <mxGeometry x="-0.7773" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="cBmIbOeMBwZKJxKtYzmj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="cBmIbOeMBwZKJxKtYzmj-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-23" value="写卡" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
@@ -91,7 +80,7 @@
             <mxPoint x="14" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cBmIbOeMBwZKJxKtYzmj-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cBmIbOeMBwZKJxKtYzmj-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
