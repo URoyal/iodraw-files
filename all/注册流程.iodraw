@@ -72,6 +72,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="cBmIbOeMBwZKJxKtYzmj-4" value="写卡成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="cBmIbOeMBwZKJxKtYzmj-3">
+          <mxGeometry x="-0.9459" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-23" value="写卡" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
         </mxCell>
