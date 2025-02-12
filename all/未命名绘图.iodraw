@@ -7,8 +7,14 @@
         <mxCell id="fx-yCBh0lVWFeabnYIsM-1" value="注册流程" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fx-yCBh0lVWFeabnYIsM-4" target="fx-yCBh0lVWFeabnYIsM-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-4" value="识别卡号" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-7" value="是否识别到" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="290" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
