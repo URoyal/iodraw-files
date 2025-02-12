@@ -36,11 +36,6 @@
         <mxCell id="N9t1iVyjokcgvMtSIY3X-11" value="识别到用户卡号" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="354" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="N9t1iVyjokcgvMtSIY3X-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="N9t1iVyjokcgvMtSIY3X-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="580" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="N9t1iVyjokcgvMtSIY3X-13" value="判断用户情况" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="374" y="780" width="80" height="80" as="geometry" />
         </mxCell>
