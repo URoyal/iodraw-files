@@ -24,9 +24,13 @@
             <Array as="points">
               <mxPoint x="434" y="150" />
               <mxPoint x="570" y="150" />
-              <mxPoint x="570" y="270" />
-              <mxPoint x="434" y="270" />
+              <mxPoint x="570" y="230" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-18" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="fx-yCBh0lVWFeabnYIsM-17">
+          <mxGeometry x="-0.4837" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
