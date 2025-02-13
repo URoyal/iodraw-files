@@ -12,7 +12,7 @@
         <mxCell id="fx-yCBh0lVWFeabnYIsM-1" value="注册流程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="fx-yCBh0lVWFeabnYIsM-13" edge="1">
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="JHmRoJG2Ncd0JP17uOp2-2" target="fx-yCBh0lVWFeabnYIsM-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="414" y="340" as="sourcePoint" />
           </mxGeometry>
