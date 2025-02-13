@@ -4,22 +4,23 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fx-yCBh0lVWFeabnYIsM-1" target="fx-yCBh0lVWFeabnYIsM-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="fx-yCBh0lVWFeabnYIsM-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="170" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-1" value="注册流程" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fx-yCBh0lVWFeabnYIsM-11" target="fx-yCBh0lVWFeabnYIsM-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fx-yCBh0lVWFeabnYIsM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="fx-yCBh0lVWFeabnYIsM-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="250" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-19" value="有效卡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fx-yCBh0lVWFeabnYIsM-14" vertex="1" connectable="0">
           <mxGeometry x="-0.11" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-11" value="识别卡号" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="374" y="170" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fx-yCBh0lVWFeabnYIsM-13" target="fx-yCBh0lVWFeabnYIsM-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -54,6 +55,9 @@
         </mxCell>
         <mxCell id="cBmIbOeMBwZKJxKtYzmj-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JHmRoJG2Ncd0JP17uOp2-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
