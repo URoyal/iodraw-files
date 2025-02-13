@@ -32,20 +32,6 @@
         <mxCell id="fx-yCBh0lVWFeabnYIsM-13" value="卡验证" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="330" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fx-yCBh0lVWFeabnYIsM-11" target="fx-yCBh0lVWFeabnYIsM-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="434" y="150" />
-              <mxPoint x="570" y="150" />
-              <mxPoint x="570" y="230" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-18" value="未识别到卡号或无效卡" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fx-yCBh0lVWFeabnYIsM-17" vertex="1" connectable="0">
-          <mxGeometry x="-0.4837" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="cBmIbOeMBwZKJxKtYzmj-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="cBmIbOeMBwZKJxKtYzmj-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -65,20 +51,6 @@
         </mxCell>
         <mxCell id="fx-yCBh0lVWFeabnYIsM-23" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;写卡并写入数据库&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="374" y="490" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="1" source="fx-yCBh0lVWFeabnYIsM-23" target="fx-yCBh0lVWFeabnYIsM-23" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="434" y="470" />
-              <mxPoint x="570" y="470" />
-              <mxPoint x="570" y="550" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fx-yCBh0lVWFeabnYIsM-27" value="写卡失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="fx-yCBh0lVWFeabnYIsM-26" vertex="1" connectable="0">
-          <mxGeometry x="-0.5797" y="-1" relative="1" as="geometry">
-            <mxPoint x="14" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="cBmIbOeMBwZKJxKtYzmj-1" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="354" y="630" width="120" height="60" as="geometry" />
