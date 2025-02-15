@@ -35,16 +35,16 @@
           <mxGeometry x="442" y="790" width="193" height="193" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-13" value="显示警告：密码错误或账户未激活" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="17" y="1024" width="252" height="66" as="geometry" />
+          <mxGeometry x="17" y="1014" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-14" value="更新登录状态为管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="342" y="1033" width="220" height="48" as="geometry" />
+          <mxGeometry x="342" y="1023" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-15" value="更新登录状态为用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="612" y="1033" width="204" height="48" as="geometry" />
+          <mxGeometry x="612" y="1023" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-17" value="提醒还书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="652" y="1172" width="124" height="48" as="geometry" />
+          <mxGeometry x="652" y="1169" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-18" value="关闭登录窗口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="374" y="1270" width="156" height="48" as="geometry" />
