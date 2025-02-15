@@ -20,7 +20,7 @@
           <mxGeometry x="354" y="375" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-8" value="选择的用户类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="336" y="458" width="161" height="161" as="geometry" />
+          <mxGeometry x="336" y="458" width="161" height="82" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-9" value="查询管理员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="199" y="692" width="173" height="48" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="189" y="790" width="193" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-12" value="密码和账户状态验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="442" y="790" width="193" height="193" as="geometry" />
+          <mxGeometry x="442" y="790" width="193" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-13" value="显示警告：密码错误或账户未激活" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="17" y="1014" width="252" height="66" as="geometry" />
