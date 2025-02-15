@@ -8,7 +8,7 @@
           <mxGeometry x="224" y="20" width="93" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-2" value="用户名是否为空" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="190" y="118" width="160" height="160" as="geometry" />
+          <mxGeometry x="190" y="118" width="160" height="72" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-3" value="显示警告：请输入用户名后再登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="9" y="284" width="252" height="66" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="180" y="250" />
-              <mxPoint x="160" y="260" />
+              <mxPoint x="170" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
