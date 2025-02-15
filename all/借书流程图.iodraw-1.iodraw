@@ -1,0 +1,135 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.4.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="Jtf0gotfGOPNjLehazPD">
+    <mxGraphModel dx="942" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-1" value="开始" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="357" y="20" width="93" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-2" value="初始化" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="348" y="118" width="110" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-3" value="等待操作" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="341" y="217" width="125" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-4" value="验证用户卡" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="28" y="338" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-5" value="检查借书数量" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="20" y="458" width="158" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-6" value="启用借书按钮" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="225" y="579" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-7" value="验证图书卡" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="227" y="338" width="141" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="mt4eDc0JNU95j1FiztYJ-7" target="mt4eDc0JNU95j1FiztYJ-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="450" />
+              <mxPoint x="225" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-8" value="显示图书信息" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="272" y="458" width="157" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-9" value="更新数据库" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="548" y="338" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-10" value="写入用户卡" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="548" y="458" width="140" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-11" value="借书成功" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="556" y="579" width="124" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-12" value="结束" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="571" y="678" width="94" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-1" target="mt4eDc0JNU95j1FiztYJ-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-2" target="mt4eDc0JNU95j1FiztYJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-15" value="获取用户ID" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-3" target="mt4eDc0JNU95j1FiztYJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-16" value="有效" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-4" target="mt4eDc0JNU95j1FiztYJ-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-17" value="未满" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0;entryY=0.03;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-5" target="mt4eDc0JNU95j1FiztYJ-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="99" y="543" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.93;exitY=0;entryX=0.71;entryY=1;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-6" target="mt4eDc0JNU95j1FiztYJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="543" />
+              <mxPoint x="470" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-19" value="获取图书ID" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-3" target="mt4eDc0JNU95j1FiztYJ-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-20" value="有效" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.37;entryY=0.01;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-7" target="mt4eDc0JNU95j1FiztYJ-8" edge="1">
+          <mxGeometry x="-0.1108" y="2" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="422" />
+            </Array>
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.63;exitY=0.01;entryX=0.5;entryY=1;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-8" target="mt4eDc0JNU95j1FiztYJ-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="403" y="422" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-22" value="点击借书按钮" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-3" target="mt4eDc0JNU95j1FiztYJ-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="618" y="301" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-9" target="mt4eDc0JNU95j1FiztYJ-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.02;entryX=0.5;entryY=0;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-10" target="mt4eDc0JNU95j1FiztYJ-11" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" parent="1" source="mt4eDc0JNU95j1FiztYJ-11" target="mt4eDc0JNU95j1FiztYJ-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
