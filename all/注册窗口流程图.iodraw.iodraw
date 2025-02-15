@@ -14,10 +14,10 @@
           <mxGeometry x="20" y="391" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-6" value="获取输入的用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="309" y="390" width="237" height="48" as="geometry" />
+          <mxGeometry x="309" y="398" width="237" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-7" value="加密密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="365" y="467" width="125" height="48" as="geometry" />
+          <mxGeometry x="365" y="482" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-8" value="选择的用户类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="347" y="565" width="161" height="161" as="geometry" />
