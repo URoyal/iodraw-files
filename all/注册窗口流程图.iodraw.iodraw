@@ -43,9 +43,6 @@
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-15" value="更新登录状态为用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="623" y="1172" width="204" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="H4mhuvGNTWEI0J9kWFpt-16" value="提醒还书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="401" y="1279" width="124" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-17" value="提醒还书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="663" y="1279" width="124" height="48" as="geometry" />
         </mxCell>
@@ -140,9 +137,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4mhuvGNTWEI0J9kWFpt-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-14" target="H4mhuvGNTWEI0J9kWFpt-16">
+        <mxCell id="H4mhuvGNTWEI0J9kWFpt-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="463" y="1279" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-15" target="H4mhuvGNTWEI0J9kWFpt-17">
@@ -150,9 +148,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="H4mhuvGNTWEI0J9kWFpt-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-16" target="H4mhuvGNTWEI0J9kWFpt-18">
+        <mxCell id="H4mhuvGNTWEI0J9kWFpt-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="H4mhuvGNTWEI0J9kWFpt-18">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="463" y="1327" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-39" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-17" target="H4mhuvGNTWEI0J9kWFpt-19">
