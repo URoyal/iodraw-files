@@ -108,16 +108,17 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-33" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-12" target="H4mhuvGNTWEI0J9kWFpt-13">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0334" y="22" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="210" y="890" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-34" value="验证成功" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-11" target="H4mhuvGNTWEI0J9kWFpt-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="452" y="1020" />
+              <mxPoint x="450" y="910" />
             </Array>
           </mxGeometry>
         </mxCell>
