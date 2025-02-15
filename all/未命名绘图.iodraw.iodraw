@@ -25,6 +25,9 @@
         <mxCell id="mt4eDc0JNU95j1FiztYJ-7" value="验证图书卡" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="227" y="338" width="141" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="mt4eDc0JNU95j1FiztYJ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mt4eDc0JNU95j1FiztYJ-8" target="mt4eDc0JNU95j1FiztYJ-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mt4eDc0JNU95j1FiztYJ-8" value="显示图书信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="272" y="458" width="157" height="48" as="geometry" />
         </mxCell>
