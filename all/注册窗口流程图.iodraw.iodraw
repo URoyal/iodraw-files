@@ -54,8 +54,7 @@
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-22" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.97;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-2" target="H4mhuvGNTWEI0J9kWFpt-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="180" y="250" />
-              <mxPoint x="170" y="270" />
+              <mxPoint x="150" y="220" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,7 +110,7 @@
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-33" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-12" target="H4mhuvGNTWEI0J9kWFpt-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="264" y="1020" />
+              <mxPoint x="210" y="890" />
             </Array>
           </mxGeometry>
         </mxCell>
