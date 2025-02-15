@@ -11,40 +11,40 @@
           <mxGeometry x="190" y="118" width="160" height="72" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-3" value="显示警告：请输入用户名后再登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="9" y="284" width="252" height="66" as="geometry" />
+          <mxGeometry x="9" y="222" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-6" value="获取输入的用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="298" y="291" width="237" height="48" as="geometry" />
+          <mxGeometry x="298" y="229" width="237" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-7" value="加密密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="354" y="375" width="125" height="48" as="geometry" />
+          <mxGeometry x="354" y="313" width="125" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-8" value="选择的用户类型" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="336" y="458" width="161" height="82" as="geometry" />
+          <mxGeometry x="336" y="396" width="161" height="82" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-9" value="查询管理员信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="199" y="573" width="173" height="48" as="geometry" />
+          <mxGeometry x="199" y="511" width="173" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-10" value="查询用户信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="460" y="573" width="157" height="48" as="geometry" />
+          <mxGeometry x="460" y="511" width="157" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-11" value="密码和账户状态验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="189" y="671" width="193" height="90" as="geometry" />
+          <mxGeometry x="189" y="609" width="193" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-12" value="密码和账户状态验证" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="442" y="671" width="193" height="90" as="geometry" />
+          <mxGeometry x="442" y="609" width="193" height="90" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-13" value="显示警告：密码错误或账户未激活" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="17" y="811" width="252" height="66" as="geometry" />
+          <mxGeometry x="17" y="749" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-14" value="更新登录状态为管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="342" y="820" width="220" height="48" as="geometry" />
+          <mxGeometry x="342" y="758" width="220" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-15" value="更新登录状态为用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="612" y="820" width="204" height="48" as="geometry" />
+          <mxGeometry x="612" y="758" width="204" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-17" value="提醒还书" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="652" y="907" width="124" height="48" as="geometry" />
+          <mxGeometry x="652" y="845" width="124" height="48" as="geometry" />
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-1" target="H4mhuvGNTWEI0J9kWFpt-2">
           <mxGeometry relative="1" as="geometry">
@@ -61,7 +61,7 @@
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-23" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.97;entryX=0.5;entryY=0;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-2" target="H4mhuvGNTWEI0J9kWFpt-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="400" y="260" />
+              <mxPoint x="400" y="200" />
             </Array>
             <mxPoint x="394.5" y="351" as="targetPoint" />
           </mxGeometry>
@@ -79,14 +79,14 @@
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-28" value="管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.95;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-8" target="H4mhuvGNTWEI0J9kWFpt-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="320" y="540" />
+              <mxPoint x="320" y="478" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-29" value="用户" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.98;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-8" target="H4mhuvGNTWEI0J9kWFpt-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="520" y="530" />
+              <mxPoint x="520" y="468" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -103,14 +103,14 @@
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-32" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.86;entryX=0.41;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-11" target="H4mhuvGNTWEI0J9kWFpt-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="791" />
+              <mxPoint x="150" y="729" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-33" value="验证失败" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.73;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-12" target="H4mhuvGNTWEI0J9kWFpt-13">
           <mxGeometry x="-0.0334" y="22" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="210" y="771" />
+              <mxPoint x="210" y="709" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
@@ -118,14 +118,14 @@
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-34" value="验证成功" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.9;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-11" target="H4mhuvGNTWEI0J9kWFpt-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="450" y="791" />
+              <mxPoint x="450" y="729" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-35" value="验证成功" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.88;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-12" target="H4mhuvGNTWEI0J9kWFpt-15">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="700" y="771" />
+              <mxPoint x="700" y="709" />
             </Array>
           </mxGeometry>
         </mxCell>
