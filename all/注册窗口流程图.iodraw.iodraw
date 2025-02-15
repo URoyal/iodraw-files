@@ -13,9 +13,6 @@
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-3" value="显示警告：请输入用户名后再登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="391" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="H4mhuvGNTWEI0J9kWFpt-5" value="显示警告：请输入密码后再登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="121" y="569" width="252" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-6" value="获取输入的用户名和密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="423" y="578" width="237" height="48" as="geometry" />
         </mxCell>
@@ -79,22 +76,6 @@
               <mxPoint x="395" y="315" />
             </Array>
             <mxPoint x="394.5" y="351" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H4mhuvGNTWEI0J9kWFpt-24" value="是" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="H4mhuvGNTWEI0J9kWFpt-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="247" y="533" />
-            </Array>
-            <mxPoint x="352.83333333333326" y="454.33333333333326" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="H4mhuvGNTWEI0J9kWFpt-25" value="否" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" target="H4mhuvGNTWEI0J9kWFpt-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="542" y="533" />
-            </Array>
-            <mxPoint x="436.16666666666674" y="454.33333333333326" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="H4mhuvGNTWEI0J9kWFpt-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="H4mhuvGNTWEI0J9kWFpt-6" target="H4mhuvGNTWEI0J9kWFpt-7">
