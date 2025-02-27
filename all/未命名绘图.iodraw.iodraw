@@ -119,8 +119,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v5Y-8XxKadTn-fTzoEv1-53" value="Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="537.5" y="30" width="100" height="40" as="geometry" />
+        <mxCell id="v5Y-8XxKadTn-fTzoEv1-53" value="AI Assist" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="30" width="110" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
