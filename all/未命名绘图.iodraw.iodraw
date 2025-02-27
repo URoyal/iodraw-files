@@ -13,18 +13,15 @@
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-4" value="Wingman List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="280" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="v5Y-8XxKadTn-fTzoEv1-9" value="Duo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="225" y="30" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="v5Y-8XxKadTn-fTzoEv1-5" value="History List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="40" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="v5Y-8XxKadTn-fTzoEv1-11" target="v5Y-8XxKadTn-fTzoEv1-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="660" y="130" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v5Y-8XxKadTn-fTzoEv1-9" value="Duo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="225" y="30" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="660" y="80" width="130" height="420" as="geometry" />
@@ -81,6 +78,9 @@
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-33" value="Writer Buffer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="410" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="v5Y-8XxKadTn-fTzoEv1-5" value="History List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="40" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
