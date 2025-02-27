@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="70" width="540" height="440" as="geometry" />
+          <mxGeometry x="30" y="70" width="470" height="440" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-2" value="Leader List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="50" y="100" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-4" value="Wingman List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="280" width="230" height="60" as="geometry" />
+          <mxGeometry x="50" y="270" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-9" value="Duo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="225" y="30" width="60" height="40" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="50" y="410" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-5" value="History List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="414" y="95" width="40" height="170" as="geometry" />
+          <mxGeometry x="430" y="100" width="40" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
