@@ -25,6 +25,9 @@
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-13" value="Storage" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="675" y="30" width="100" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="v5Y-8XxKadTn-fTzoEv1-14" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
