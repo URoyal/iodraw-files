@@ -106,7 +106,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-33" value="Writer Buffer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="50" y="410" width="230" height="60" as="geometry" />
+          <mxGeometry x="50" y="420" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-5" value="History List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;textDirection=vertical-lr;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="430" y="100" width="40" height="170" as="geometry" />
