@@ -77,13 +77,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="v5Y-8XxKadTn-fTzoEv1-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="v5Y-8XxKadTn-fTzoEv1-30" target="v5Y-8XxKadTn-fTzoEv1-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="550" y="380" />
-              <mxPoint x="165" y="380" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="v5Y-8XxKadTn-fTzoEv1-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;shape=flexArrow;" edge="1" parent="1" source="v5Y-8XxKadTn-fTzoEv1-30" target="v5Y-8XxKadTn-fTzoEv1-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="v5Y-8XxKadTn-fTzoEv1-30">
           <mxGeometry relative="1" as="geometry">
