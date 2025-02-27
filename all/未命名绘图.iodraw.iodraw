@@ -59,7 +59,7 @@
           <mxGeometry x="735" y="410" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-30" value="AI Assist" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="540" y="170" width="75" height="70" as="geometry" />
+          <mxGeometry x="550" y="70" width="75" height="440" as="geometry" />
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="v5Y-8XxKadTn-fTzoEv1-33" target="v5Y-8XxKadTn-fTzoEv1-11">
           <mxGeometry relative="1" as="geometry">
@@ -74,6 +74,9 @@
         </mxCell>
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-5" value="History List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="430" y="100" width="40" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="v5Y-8XxKadTn-fTzoEv1-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=0.976;entryY=0.166;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="v5Y-8XxKadTn-fTzoEv1-11" target="v5Y-8XxKadTn-fTzoEv1-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
