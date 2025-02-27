@@ -19,6 +19,9 @@
         <mxCell id="v5Y-8XxKadTn-fTzoEv1-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Blob_Block.svg;" vertex="1" parent="1">
           <mxGeometry x="610" y="110" width="187.5" height="150" as="geometry" />
         </mxCell>
+        <mxCell id="v5Y-8XxKadTn-fTzoEv1-8" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Blog_Storage.svg;" vertex="1" parent="1">
+          <mxGeometry x="390" y="320" width="50" height="46" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
