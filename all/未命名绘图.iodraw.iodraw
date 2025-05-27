@@ -17,7 +17,10 @@
           <mxGeometry x="390" y="230" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-6" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="400" width="60" height="63" as="geometry" />
+          <mxGeometry x="390" y="420" width="60" height="63" as="geometry" />
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-7" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="300" width="76.5" height="93" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
