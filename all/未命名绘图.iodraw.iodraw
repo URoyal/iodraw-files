@@ -16,7 +16,7 @@
           <mxGeometry x="414" y="250" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-6" value="辅助列表" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="340" y="420" width="60" height="63" as="geometry" />
+          <mxGeometry x="414" y="430" width="60" height="63" as="geometry" />
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-7" target="G9YOKDOysY1iipRka3vD-8">
           <mxGeometry relative="1" as="geometry" />
@@ -26,6 +26,9 @@
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-8" value="数据块" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.object;fillColor=#E05243;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="120" y="327.5" width="42" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-11" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.buffer;fillColor=#221F1F;strokeColor=none" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="320" width="70.4" height="60.400000000000006" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
