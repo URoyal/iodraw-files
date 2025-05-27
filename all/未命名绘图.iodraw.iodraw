@@ -58,15 +58,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-15" value="ML模型" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="340" width="36" height="50" as="geometry" />
+          <mxGeometry x="560" y="340" width="36" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.111;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-15" target="G9YOKDOysY1iipRka3vD-7">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="627.75" y="390" as="sourcePoint" />
             <mxPoint x="100" y="421.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="390" />
-              <mxPoint x="692" y="390" />
+              <mxPoint x="692" y="360" />
               <mxPoint x="692" y="655" />
               <mxPoint x="38" y="655" />
             </Array>
