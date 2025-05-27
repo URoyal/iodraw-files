@@ -9,6 +9,11 @@
             <mxPoint x="160" y="350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-25" value="第一次被读取" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G9YOKDOysY1iipRka3vD-3">
+          <mxGeometry x="-0.0998" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-1" value="ML模型" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="259" y="325" width="36" height="50" as="geometry" />
         </mxCell>
