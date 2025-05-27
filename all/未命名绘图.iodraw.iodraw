@@ -12,7 +12,7 @@
         <mxCell id="G9YOKDOysY1iipRka3vD-1" value="ML模型" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="259" y="325" width="36" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-5" target="G9YOKDOysY1iipRka3vD-15">
+        <mxCell id="G9YOKDOysY1iipRka3vD-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-5" target="G9YOKDOysY1iipRka3vD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-5" value="主列表" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
