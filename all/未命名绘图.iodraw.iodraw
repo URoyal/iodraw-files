@@ -109,7 +109,7 @@
         <mxCell id="G9YOKDOysY1iipRka3vD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-39" target="G9YOKDOysY1iipRka3vD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G9YOKDOysY1iipRka3vD-43">
+        <mxCell id="G9YOKDOysY1iipRka3vD-44" value="预取数据块的共读数据块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G9YOKDOysY1iipRka3vD-43">
           <mxGeometry x="-0.2171" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
