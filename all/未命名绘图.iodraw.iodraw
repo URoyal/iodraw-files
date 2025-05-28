@@ -46,7 +46,7 @@
         <mxCell id="G9YOKDOysY1iipRka3vD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.478;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-15" target="G9YOKDOysY1iipRka3vD-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-15" value="ML模型" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="G9YOKDOysY1iipRka3vD-15" value="ML模型2" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="649" y="340" width="36" height="50" as="geometry" />
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1.111;exitY=0.4;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-15" target="G9YOKDOysY1iipRka3vD-7">
@@ -110,6 +110,9 @@
           <mxGeometry x="100" y="103.5" width="630" height="506.5" as="geometry">
             <mxRectangle x="100" y="103.5" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-39" value="ML模型1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="358" y="335" width="36" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
