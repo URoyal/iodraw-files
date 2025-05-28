@@ -13,7 +13,7 @@
         <mxCell id="ICHbR3mHXqLiBqAy2-h_-4" value="Vertical Container" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="193" width="410" height="238" as="geometry" />
         </mxCell>
-        <mxCell id="ICHbR3mHXqLiBqAy2-h_-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Bare_Metal_Infrastructure.svg;" vertex="1" parent="ICHbR3mHXqLiBqAy2-h_-4">
+        <mxCell id="ICHbR3mHXqLiBqAy2-h_-3" value="优化Duo策略" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Bare_Metal_Infrastructure.svg;" vertex="1" parent="ICHbR3mHXqLiBqAy2-h_-4">
           <mxGeometry x="46" y="95.5" width="68" height="64" as="geometry" />
         </mxCell>
       </root>
