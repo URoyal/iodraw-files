@@ -81,6 +81,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-32" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Group_List.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="390" width="68" height="67" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
