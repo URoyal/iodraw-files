@@ -101,7 +101,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G9YOKDOysY1iipRka3vD-35">
+        <mxCell id="G9YOKDOysY1iipRka3vD-36" value="预取数据块的共读数据块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G9YOKDOysY1iipRka3vD-35">
           <mxGeometry x="-0.0427" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
