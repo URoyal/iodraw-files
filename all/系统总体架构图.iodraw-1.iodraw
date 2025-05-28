@@ -16,27 +16,32 @@
         <mxCell id="ICHbR3mHXqLiBqAy2-h_-3" value="优化Duo策略" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Bare_Metal_Infrastructure.svg;" vertex="1" parent="ICHbR3mHXqLiBqAy2-h_-4">
           <mxGeometry x="46" y="95.5" width="68" height="64" as="geometry" />
         </mxCell>
+        <mxCell id="ICHbR3mHXqLiBqAy2-h_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="ICHbR3mHXqLiBqAy2-h_-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="114" y="107.47000000000003" as="sourcePoint" />
+            <mxPoint x="280" y="107" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="140" y="107.47000000000003" />
+              <mxPoint x="140" y="107.47000000000003" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ICHbR3mHXqLiBqAy2-h_-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.041;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="160" y="299.99800000000005" as="sourcePoint" />
             <mxPoint x="348.788" y="299.99800000000005" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ICHbR3mHXqLiBqAy2-h_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICHbR3mHXqLiBqAy2-h_-3" target="ICHbR3mHXqLiBqAy2-h_-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="ICHbR3mHXqLiBqAy2-h_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.21;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICHbR3mHXqLiBqAy2-h_-3" target="ICHbR3mHXqLiBqAy2-h_-2">
+        <mxCell id="ICHbR3mHXqLiBqAy2-h_-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="440" y="294" />
-              <mxPoint x="440" y="294" />
-            </Array>
+            <mxPoint x="346" y="340.5" as="sourcePoint" />
+            <mxPoint x="160" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ICHbR3mHXqLiBqAy2-h_-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.971;entryY=0.492;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICHbR3mHXqLiBqAy2-h_-2" target="ICHbR3mHXqLiBqAy2-h_-3">
+        <mxCell id="ICHbR3mHXqLiBqAy2-h_-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.935;entryY=0.817;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ICHbR3mHXqLiBqAy2-h_-2" target="ICHbR3mHXqLiBqAy2-h_-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="497" y="321" />
+              <mxPoint x="497" y="340" />
             </Array>
           </mxGeometry>
         </mxCell>
