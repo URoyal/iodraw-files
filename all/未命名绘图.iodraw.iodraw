@@ -76,13 +76,18 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.45;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-1" target="G9YOKDOysY1iipRka3vD-7">
+        <mxCell id="G9YOKDOysY1iipRka3vD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.45;exitY=1.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="384.00000000000006" y="375.00000000000006" as="sourcePoint" />
+            <mxPoint x="58.05" y="396.3" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="364" y="490" />
-              <mxPoint x="38" y="490" />
+              <mxPoint x="383.8" y="489.8" />
+              <mxPoint x="57.8" y="489.8" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-32" target="G9YOKDOysY1iipRka3vD-8">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-32" value="历史列表" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Group_List.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="316.5" width="68" height="67" as="geometry" />
