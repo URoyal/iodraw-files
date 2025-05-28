@@ -31,9 +31,6 @@
         <mxCell id="G9YOKDOysY1iipRka3vD-6" value="辅助列表" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.cache_node;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="430" width="60" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-7" target="G9YOKDOysY1iipRka3vD-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-7" value="远端存储" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.s3;fillColor=#E05243;gradientColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry y="303.5" width="76.5" height="93" as="geometry" />
         </mxCell>
