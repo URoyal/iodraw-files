@@ -92,27 +92,27 @@
         <mxCell id="G9YOKDOysY1iipRka3vD-32" value="历史列表" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Group_List.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="316.5" width="68" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-32" target="G9YOKDOysY1iipRka3vD-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="144" y="550" />
-              <mxPoint x="440" y="550" />
-              <mxPoint x="440" y="462" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-36" value="预取数据块的共读数据块" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G9YOKDOysY1iipRka3vD-35">
-          <mxGeometry x="-0.0427" y="-1" relative="1" as="geometry">
-            <mxPoint x="232" y="159" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-38" value="优化后的Duo存储策略" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="103.5" width="630" height="506.5" as="geometry">
             <mxRectangle x="100" y="103.5" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-39" value="ML模型1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="G9YOKDOysY1iipRka3vD-38">
-          <mxGeometry x="440" y="426.5" width="36" height="50" as="geometry" />
+          <mxGeometry x="112" y="406.5" width="36" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-8" target="G9YOKDOysY1iipRka3vD-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.022;entryY=0.488;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.476;exitY=1.007;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-32" target="G9YOKDOysY1iipRka3vD-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-39" target="G9YOKDOysY1iipRka3vD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="G9YOKDOysY1iipRka3vD-43">
+          <mxGeometry x="-0.2171" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
