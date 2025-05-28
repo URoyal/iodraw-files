@@ -92,7 +92,7 @@
         <mxCell id="G9YOKDOysY1iipRka3vD-32" value="历史列表" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Group_List.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="110" y="316.5" width="68" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="G9YOKDOysY1iipRka3vD-38" value="优化后的Duo存储策略" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="G9YOKDOysY1iipRka3vD-38" value="优化后的Duo存储策略结构" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="100" y="103.5" width="630" height="506.5" as="geometry">
             <mxRectangle x="100" y="103.5" width="160" height="30" as="alternateBounds" />
           </mxGeometry>
