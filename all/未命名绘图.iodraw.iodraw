@@ -98,7 +98,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="G9YOKDOysY1iipRka3vD-39" value="ML模型1" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Batch_AI.svg;" vertex="1" parent="G9YOKDOysY1iipRka3vD-38">
-          <mxGeometry x="440" y="426.5" width="36" height="50" as="geometry" />
+          <mxGeometry x="112" y="406.5" width="36" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="G9YOKDOysY1iipRka3vD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.511;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="G9YOKDOysY1iipRka3vD-8" target="G9YOKDOysY1iipRka3vD-39">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
