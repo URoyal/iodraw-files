@@ -19,10 +19,10 @@
             <mxPoint x="438" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0Mha4a4YZ6kBMq9OWwYS-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Bare_Metal_Infrastructure.svg;" vertex="1" parent="0Mha4a4YZ6kBMq9OWwYS-2">
+        <mxCell id="0Mha4a4YZ6kBMq9OWwYS-3" value="裸机" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/Bare_Metal_Infrastructure.svg;" vertex="1" parent="0Mha4a4YZ6kBMq9OWwYS-2">
           <mxGeometry x="50" y="240" width="68" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="0Mha4a4YZ6kBMq9OWwYS-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="0Mha4a4YZ6kBMq9OWwYS-2">
+        <mxCell id="0Mha4a4YZ6kBMq9OWwYS-4" value="虚拟机" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/VM_Scale_Sets.svg;" vertex="1" parent="0Mha4a4YZ6kBMq9OWwYS-2">
           <mxGeometry x="150" y="172" width="68" height="68" as="geometry" />
         </mxCell>
         <mxCell id="0Mha4a4YZ6kBMq9OWwYS-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/containers/Container_Instances.svg;" vertex="1" parent="0Mha4a4YZ6kBMq9OWwYS-2">
