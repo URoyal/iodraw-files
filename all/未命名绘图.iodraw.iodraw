@@ -37,7 +37,7 @@
         <mxCell id="SoILDLMq3wuSJUSoVKEC-10" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#7eff7e;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="610" y="130" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SoILDLMq3wuSJUSoVKEC-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#00FFFF;fillColor=default;" vertex="1" parent="1">
+        <mxCell id="SoILDLMq3wuSJUSoVKEC-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;gradientColor=#81ff81;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="770" y="130" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SoILDLMq3wuSJUSoVKEC-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" target="SoILDLMq3wuSJUSoVKEC-14" parent="1">
