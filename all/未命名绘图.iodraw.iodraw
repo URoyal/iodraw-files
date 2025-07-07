@@ -25,6 +25,9 @@
         <mxCell id="wmCShbz69XibyCboh0MY-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="535" y="180" width="200" height="280" as="geometry" />
         </mxCell>
+        <mxCell id="wmCShbz69XibyCboh0MY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wmCShbz69XibyCboh0MY-8" target="wmCShbz69XibyCboh0MY-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wmCShbz69XibyCboh0MY-8" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;本地信息总线&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="172.5" y="200" width="320" height="60" as="geometry" />
         </mxCell>
