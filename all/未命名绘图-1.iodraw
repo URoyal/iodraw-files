@@ -32,7 +32,7 @@
           <mxGeometry x="472.38" y="690" width="44.25" height="27" as="geometry" />
         </mxCell>
         <mxCell id="yhbfvWiq2mRk6VY6Ql7a-12" value="$$X_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="130" y="827" width="71" height="26" as="geometry" />
+          <mxGeometry x="152" y="835" width="71" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
