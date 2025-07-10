@@ -123,7 +123,7 @@
         <mxCell id="yhbfvWiq2mRk6VY6Ql7a-57" value="$$z_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="315" y="618" width="90" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="yhbfvWiq2mRk6VY6Ql7a-58" value="$$\widehat{z}_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="yhbfvWiq2mRk6VY6Ql7a-58" value="$$\widehat{h_{t}}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="435.38" y="667" width="165" height="32" as="geometry" />
         </mxCell>
       </root>
