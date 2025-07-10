@@ -120,8 +120,8 @@
         <mxCell id="yhbfvWiq2mRk6VY6Ql7a-56" value="$$r_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="265" y="615" width="87" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="yhbfvWiq2mRk6VY6Ql7a-57" value="$$r_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="362" y="618" width="87" height="32" as="geometry" />
+        <mxCell id="yhbfvWiq2mRk6VY6Ql7a-57" value="$$z_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="315" y="618" width="90" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
