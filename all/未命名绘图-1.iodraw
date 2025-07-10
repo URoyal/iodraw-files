@@ -88,8 +88,8 @@
             <mxPoint x="-7" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-25" value="O" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="347" y="80" width="30" height="30" as="geometry" />
+        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-25" value="$$O_t-1$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="322" y="80" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KOtPmJ0wB6z8TSjT2yy-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;strokeColor=none;width=2.7777777777777777;endSize=3.194444444444444;endWidth=7.006172839506172;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
