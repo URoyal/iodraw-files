@@ -16,6 +16,9 @@
         <mxCell id="yhbfvWiq2mRk6VY6Ql7a-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;$$\sigma$$&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="650" width="44.25" height="27" as="geometry" />
         </mxCell>
+        <mxCell id="yhbfvWiq2mRk6VY6Ql7a-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhbfvWiq2mRk6VY6Ql7a-12" target="yhbfvWiq2mRk6VY6Ql7a-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yhbfvWiq2mRk6VY6Ql7a-12" value="$$X_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="132" y="832" width="93" height="32" as="geometry" />
         </mxCell>
