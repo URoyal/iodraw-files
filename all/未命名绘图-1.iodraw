@@ -91,13 +91,13 @@
         <mxCell id="9KOtPmJ0wB6z8TSjT2yy-25" value="O" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="347" y="80" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;strokeColor=#b85450;width=2.7777777777777777;endSize=3.194444444444444;endWidth=7.006172839506172;" edge="1" parent="1">
+        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-27" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;strokeColor=none;width=2.7777777777777777;endSize=3.194444444444444;endWidth=7.006172839506172;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="220" as="sourcePoint" />
             <mxPoint x="334" y="219.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-28" value="Unfold" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9KOtPmJ0wB6z8TSjT2yy-27">
+        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-28" value="W" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9KOtPmJ0wB6z8TSjT2yy-27">
           <mxGeometry x="-0.4933" y="4" relative="1" as="geometry">
             <mxPoint x="14" y="29" as="offset" />
           </mxGeometry>
