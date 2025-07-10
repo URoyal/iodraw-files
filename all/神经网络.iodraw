@@ -198,6 +198,17 @@
         <mxCell id="9KOtPmJ0wB6z8TSjT2yy-52" value="$$X_{t+1}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="577" y="308" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KnmDYccDds4EQzeyJXYp-1" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;strokeColor=none;width=2.7777777777777777;endSize=3.194444444444444;endWidth=7.006172839506172;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="230" as="sourcePoint" />
+            <mxPoint x="604" y="229.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KnmDYccDds4EQzeyJXYp-2" value="$$W$$" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=none;spacing=0;" vertex="1" connectable="0" parent="KnmDYccDds4EQzeyJXYp-1">
+          <mxGeometry x="-0.4933" y="4" relative="1" as="geometry">
+            <mxPoint x="16" y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
