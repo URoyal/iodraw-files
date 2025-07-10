@@ -178,8 +178,8 @@
             <mxPoint x="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-48" value="$$O_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="582" y="80" width="80" height="30" as="geometry" />
+        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-48" value="$$O_{t+1}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="577" y="80" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KOtPmJ0wB6z8TSjT2yy-49" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#000000;strokeColor=none;width=2.7777777777777777;endSize=3.194444444444444;endWidth=7.006172839506172;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -192,8 +192,8 @@
             <mxPoint x="16" y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-51" value="$$S_{t-1}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="602" y="180" width="90" height="30" as="geometry" />
+        <mxCell id="9KOtPmJ0wB6z8TSjT2yy-51" value="$$S_{t}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="607" y="180" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9KOtPmJ0wB6z8TSjT2yy-52" value="$$X_{t-1}$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="577" y="308" width="90" height="30" as="geometry" />
