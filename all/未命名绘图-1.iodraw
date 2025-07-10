@@ -31,15 +31,10 @@
         <mxCell id="yhbfvWiq2mRk6VY6Ql7a-18" value="&lt;span style=&quot;font-size: 26px;&quot;&gt;$$\times$$&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="477" y="602" width="35" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="yhbfvWiq2mRk6VY6Ql7a-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yhbfvWiq2mRk6VY6Ql7a-26" target="yhbfvWiq2mRk6VY6Ql7a-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="259" y="828" />
-              <mxPoint x="495" y="828" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yhbfvWiq2mRk6VY6Ql7a-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yhbfvWiq2mRk6VY6Ql7a-26" target="yhbfvWiq2mRk6VY6Ql7a-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yhbfvWiq2mRk6VY6Ql7a-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="yhbfvWiq2mRk6VY6Ql7a-26" target="yhbfvWiq2mRk6VY6Ql7a-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yhbfvWiq2mRk6VY6Ql7a-26" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
